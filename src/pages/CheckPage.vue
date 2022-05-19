@@ -92,7 +92,7 @@
           style="
             background-color: #f7f8fa;
             width: 100%;
-            background-color: #002245;
+            background-color: #f25252;
             border-radius: 10px 10px 0 0;
             height: 40px;
           "
